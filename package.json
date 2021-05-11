@@ -1,0 +1,17 @@
+{
+  "name": "wind-frontier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2",
+    "xstate": "^4.18.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "watch": "parcel build index.html"
+  },
+  "dependencies": {
+    "p5": "^1.3.1"
+  }
+}
